@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="WordNet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WordNet/out/production/WordNet/WordNet (2).zip!/" />
+      <root url="jar://$PROJECT_DIR$/WordNet/out/production/WordNet/WordNet (4).zip!/" />
+      <root url="jar://$PROJECT_DIR$/WordNet/out/production/WordNet/WordNet (3).zip!/" />
+      <root url="jar://$PROJECT_DIR$/WordNet/out/production/WordNet/WordNet.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

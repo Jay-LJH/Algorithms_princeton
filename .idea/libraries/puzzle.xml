@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="puzzle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/puzzle/out/production/puzzle/Solver.zip!/" />
+      <root url="jar://$PROJECT_DIR$/puzzle/out/production/puzzle/Solver (2).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

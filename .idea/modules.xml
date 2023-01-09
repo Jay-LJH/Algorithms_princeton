@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WordNet/WordNet.iml" filepath="$PROJECT_DIR$/WordNet/WordNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course.iml" filepath="$PROJECT_DIR$/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deque/deque.iml" filepath="$PROJECT_DIR$/deque/deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdTree/kdTree.iml" filepath="$PROJECT_DIR$/kdTree/kdTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzle/puzzle.iml" filepath="$PROJECT_DIR$/puzzle/puzzle.iml" />
+    </modules>
+  </component>
+</project>

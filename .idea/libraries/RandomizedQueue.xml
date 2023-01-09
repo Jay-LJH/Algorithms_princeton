@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RandomizedQueue">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deque/out/production/deque/RandomizedQueue.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

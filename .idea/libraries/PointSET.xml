@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PointSET">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kdTree/out/production/kdTree/PointSET.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
